@@ -1,6 +1,6 @@
 {
   "donationData": [
-    { "id": 1, "name": "Theresa May", "amount": 500 },
+    { "id": 1, "name": "Theresa May", "amount": 800 },
     { "id": 2, "name": "James Wilson", "amount": 400 },
     { "id": 3, "name": "Emma Thompson", "amount": 300 },
     { "id": 4, "name": "Sophia Davis", "amount": 200 },
